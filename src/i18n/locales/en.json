@@ -1,0 +1,12 @@
+{
+  "message": "Good Morning Here is Some News For You",
+  "sidebar": {
+    "to-home": "Go To Home",
+    "theme": "Theme",
+    "lang": "Language",
+    "theme-list":{
+        "dark":"Dark",
+        "light":"Light"
+    }
+  }
+}
